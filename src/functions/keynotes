@@ -1,0 +1,24 @@
+Chapter 11 - Functions
+
+About functions:
+  Arguments are passed by assignment (object reference)
+    
+  global declares module-level variables that are to be assigned.
+    With global, we can do an assignment to a module level instead to a function level
+ 
+  Arguments, return values, and variables are not declared.
+    
+
+Structure:
+  def <name>(arg1, arg2,... argN):
+    <statements>
+
+=============================================================
+def in runtime:
+  def executes in run time, it can be run from any part of a module
+
+
+using this schema can amplify our polymorphism scope to any project using a multicase functional function (lol)
+
+
+   
