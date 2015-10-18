@@ -1,0 +1,12 @@
+Chapter 14 - Advanced function topics
+
+map() built-in doesn't truncate data
+zip() does (random post)
+
+============Lambda Expressions====================
+
+  lambda is an expression, not a statement
+  lambda bodies are a single expression, not a block of statements
+
+These are used in a lot of contexts, where we don't wanna waste our time building an entire function because it will only be used one
+See more examples in 
